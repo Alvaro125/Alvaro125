@@ -1,2 +1,7 @@
 #hardskill{
 display: inline_block;}
+
+#hardskill>img{
+text-align: center;
+height:30px;
+width:40px;}
